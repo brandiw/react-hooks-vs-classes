@@ -67,7 +67,6 @@ function App() {
             />
             <button type="submit">Search</button>
           </form>
-
           <p>Name:</p>
           <input
             type="text"
